@@ -9,6 +9,11 @@ body {
     font-size: 12px;
 }
 
+ts {
+    font-size: medium;
+    text-shadow: #000;
+}
+
 a {
     text-decoration: none;
     font-size: 20px;
@@ -23,6 +28,10 @@ header {
     align-items: center;
     position: relative;
     z-index: 100;
+}
+head .container green{
+    border: 2px solid ;
+    background-color: #f1683a;
 }
 div.container
 {
