@@ -39,7 +39,7 @@ div.container
     margin: 0 auto;
 	padding: 2em 8em;
 	text-align: center;
-    background: rgb(157, 98, 98);
+    background: rgba(152, 152, 152, 0.825);
     filter: blur(100%);
    
 }
